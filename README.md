@@ -1,12 +1,12 @@
 # Shopping-Project
-### I'm Sending this code. Extend it. Divide work among yourselves. Complete it by this Wednesday.
+#### I'm Sending this code. 
+#### Extend it. 
+#### Complete it as soon as possible.
 
----x---x---x---
-
+---------------------------
 INSTRUCTIONS / Things to do :
 ---------------------------
 
----x---x---x---
 
 1. Index.php is meant to be served first.
 2. Connect the tempate of the website to the the login and registration papge by proper routing.
