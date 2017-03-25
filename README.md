@@ -1,9 +1,10 @@
 # Shopping-Project
-#I'm Sending this code. Extend it. Divide work among yourselves. Complete it by this Wednesday.
+### I'm Sending this code. Extend it. Divide work among yourselves. Complete it by this Wednesday.
 
 ---x---x---x---
 
-INSTRUCTIONS : Things to do
+INSTRUCTIONS / Things to do :
+---------------------------
 
 ---x---x---x---
 
@@ -12,3 +13,6 @@ INSTRUCTIONS : Things to do
 3. On clicking Account link fetch the data from the db i.e name, address etc..
 4. Create Sessions.
 5. Create Cookies only if when the "Remember me" is checked.
+6. Ustora is the Front-end made with Bootstrap. Connect it. The index.html in that folder is to be
+   after proper login authentication. 
+7. A screenshot of the MYSQLi DB has been attached
